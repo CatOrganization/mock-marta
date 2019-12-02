@@ -1,0 +1,58 @@
+[
+  {
+    "ADHERENCE": "0",
+    "BLOCKID": "21",
+    "BLOCK_ABBR": "110-1",
+    "DIRECTION": "Southbound",
+    "LATITUDE": "33.7890561",
+    "LONGITUDE": "-84.386845",
+    "MSGTIME": "12/1/2019 8:53:01 PM",
+    "ROUTE": "110",
+    "STOPID": "901789",
+    "TIMEPOINT": "Arts Center Station",
+    "TRIPID": "6861689",
+    "VEHICLE": "1468"
+  },
+  {
+    "ADHERENCE": "1",
+    "BLOCKID": "22",
+    "BLOCK_ABBR": "110-2",
+    "DIRECTION": "Southbound",
+    "LATITUDE": "33.8246137",
+    "LONGITUDE": "-84.3874617",
+    "MSGTIME": "12/1/2019 8:55:42 PM",
+    "ROUTE": "110",
+    "STOPID": "905889",
+    "TIMEPOINT": "Buckhead Station",
+    "TRIPID": "6868215",
+    "VEHICLE": "7006"
+  },
+  {
+    "ADHERENCE": "0",
+    "BLOCKID": "25",
+    "BLOCK_ABBR": "110-5",
+    "DIRECTION": "Northbound",
+    "LATITUDE": "33.8074407",
+    "LONGITUDE": "-84.3937364",
+    "MSGTIME": "12/1/2019 8:56:19 PM",
+    "ROUTE": "110",
+    "STOPID": "901789",
+    "TIMEPOINT": "Arts Center Station",
+    "TRIPID": "6852490",
+    "VEHICLE": "7032"
+  },
+  {
+    "ADHERENCE": "2",
+    "BLOCKID": "23",
+    "BLOCK_ABBR": "110-3",
+    "DIRECTION": "Northbound",
+    "LATITUDE": "33.8577336",
+    "LONGITUDE": "-84.346858",
+    "MSGTIME": "12/1/2019 8:58:57 PM",
+    "ROUTE": "110",
+    "STOPID": "905890",
+    "TIMEPOINT": "Buckhead Station",
+    "TRIPID": "6856364",
+    "VEHICLE": "7028"
+  }
+]
